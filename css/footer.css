@@ -1,0 +1,17 @@
+footer {
+    background-color: #232227;
+    color: #87918d;
+}
+
+.title_footer {
+    color: #fff;
+}
+
+.container .row .add_infor:hover {
+    color: #fff;
+    cursor: pointer;
+}
+
+footer a {
+    text-decoration: none;
+}
